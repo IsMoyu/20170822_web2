@@ -11,4 +11,8 @@ public class Test {
     public int sum(int x,int y){
         return x+y;
     }
+
+    public String prit(){
+        return "中国";
+    }
 }
